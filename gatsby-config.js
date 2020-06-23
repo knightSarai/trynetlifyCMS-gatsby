@@ -57,7 +57,6 @@ module.exports = {
         icon: `src/assets/favicon.png`,
       },
     },
-    'gatsby-plugin-netlify-cms',
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
